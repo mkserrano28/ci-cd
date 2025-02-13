@@ -129,6 +129,32 @@
           "in_stock": true,
           "stores": ["Google Store", "Amazon", "Best Buy"]
         }
+      },
+      {
+        "id": "6",
+        "image": "images/iphone5.jpg",
+        "brand": "Samsung",
+        "model": "ESamsung s25",
+        "price": 899.99,
+        "currency": "USD",
+        "release_date": "2023-10-04",
+        "specifications": {
+          "display": "6.7-inch LTPO OLED",
+          "processor": "Google Tensor G3",
+          "ram": "12GB",
+          "storage": ["128GB", "256GB", "512GB"],
+          "camera": {
+            "rear": "50MP + 48MP + 48MP",
+            "front": "10.5MP"
+          },
+          "battery": "5050mAh",
+          "os": "Android 14",
+          "connectivity": ["5G", "Wi-Fi 7", "Bluetooth 5.3", "USB-C"]
+        },
+        "availability": {
+          "in_stock": true,
+          "stores": ["Google Store", "Amazon", "Best Buy"]
+        }
       }
     ]
   }
