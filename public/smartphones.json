@@ -134,8 +134,8 @@
         "id": "6",
         "image": "images/iphone5.jpg",
         "brand": "Samsung",
-        "model": "ESamsung s25",
-        "price": 899.99,
+        "model": "ESamsung s30",
+        "price": 900,
         "currency": "USD",
         "release_date": "2023-10-04",
         "specifications": {
